@@ -5,9 +5,11 @@ draft: false
 tags: [虚拟机,网络,破解]
 categories: [软件]
 summary: 锐捷客户端会每30~60秒就停止VMware NAT Service的运行，这里通过修改8021x.exe来解除限制
+author: "八荒山人"
+authorlink: "https://www.shan-ren.cn"
 ---
 
-> **转载自![山人的博客](https://www.shan-ren.cn)**
+> **转载自[山人的博客](https://www.shan-ren.cn)**
 
 ## VMware NAT Service停止运行原因
 
