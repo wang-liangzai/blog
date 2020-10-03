@@ -70,11 +70,11 @@ enableEmoji = true
     [params.home.profile]
       enable = true
       # Gravatar 邮箱，用于优先在主页显示的头像
-      gravatarEmail = "WGJ20010101@163.com"
+      gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = ""
+      avatarURL = "https://cdn.jsdelivr.net/gh/wang-liangzai/picture/gravatar.jpg"
       #  主页显示的网站标题 (支持 HTML 格式)
-      title = "王-靓仔的博客"
+      title = "王-靓仔"
       # 主页显示的网站副标题
       subtitle = ""
       # 是否为副标题显示打字机动画
