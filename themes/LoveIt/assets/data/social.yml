@@ -1,0 +1,64 @@
+# 01: Protonmail
+protonmail:
+  Weight: 1
+  Template: mailto:%v
+  Title: Protonmail
+  Icon:
+    Src: svg/icons/protonmail.svg
+
+# 02: Gmail
+gmail:
+  Weight: 2
+  Template: mailto:%v
+  Title: Gmail
+  Icon:
+    Src: svg/icons/gmail.svg
+
+# 003: Skype
+skype:
+  Weight: 3
+  Template: "skype:"
+  Title: Skype
+  Icon:
+    Src: svg/icons/skype.svg
+
+# 004: Telegram
+telegram:
+  Weight: 4
+  Prefix: https://t.me/
+  Title: Telegram
+  Icon:
+    Src: svg/icons/telegram.svg
+
+# 005: Twitter
+twitter:
+  Weight: 5
+  Prefix: https://twitter.com/
+  Title: Twitter
+  Icon:
+    Src: svg/icons/twitter.svg
+
+# 006: 知乎
+zhihu:
+  Weight: 6
+  Prefix: https://www.zhihu.com/people/
+  Title: 知乎
+  Icon:
+    Src: svg/icons/zhihu.svg    
+
+# 007: Github
+github:
+  Weight: 7
+  Prefix: https://github.com/
+  Title: GitHub
+  Icon:
+    Src: svg/icons/github.svg
+
+# 008: RSS
+rss:
+  Weight: 8
+  Url: /index.xml
+  Title: RSS
+  Newtab: true
+  Icon:
+    Src: svg/icons/rss.svg
